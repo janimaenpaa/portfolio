@@ -1,0 +1,17 @@
+img {
+  width: 6vw;
+  height: auto;
+  margin: 10px 20px 20px 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 15vw;
+  }
+}
+
+.mongo {
+  height: 6vh;
+  width: auto;
+  align-self: center;
+}
